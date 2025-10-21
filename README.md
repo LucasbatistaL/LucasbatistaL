@@ -6,7 +6,7 @@
 ---
 
 ### 🌐 Onde me encontrar
-LinkedIn - https://www.linkedin.com/in/lucas-batista-leite-b33607221/)
+[LinkedIn](https://www.linkedin.com/in/lucas-batista-leite-b33607221/)
 
 
 ---
