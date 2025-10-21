@@ -6,9 +6,9 @@
 ---
 
 ### 🌐 Onde me encontrar
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white)](https://github.com/SEU_USUARIO)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_PERFIL)
-[![Medium](https://img.shields.io/badge/Medium-000?style=flat&logo=medium&logoColor=white)](https://medium.com/@SEU_USUARIO)
+[![GitHub]()
+[![LinkedIn](https://www.linkedin.com/in/lucas-batista-leite-b33607221/)
+
 
 ---
 
@@ -32,9 +32,6 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
-![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight)
 
 ---
 
